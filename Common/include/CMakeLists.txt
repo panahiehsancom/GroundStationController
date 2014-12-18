@@ -1,5 +1,5 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
 
-set(SrcFiles
-    main.cpp
+set(IncludeFiles
+    Common/include/IParameterValue.h
     PARENT_SCOPE)
