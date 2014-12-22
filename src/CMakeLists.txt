@@ -1,5 +1,5 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
 
-set(SrcFiles
-    main.cpp
-    PARENT_SCOPE)
+set(Src_Files main.cpp a.cpp PARENT_SCOPE)
+
+

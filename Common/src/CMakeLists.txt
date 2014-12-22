@@ -1,0 +1,7 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+
+set(Src_Files
+
+    PARENT_SCOPE)
+
+
